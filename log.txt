@@ -1,0 +1,2 @@
+февр. 01, 2023 11:38:29 AM Task0 main
+WARNING: The entered number is greater than the maximum value that can be stored in a byte.
